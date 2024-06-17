@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harinidineesh/Leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/harinidineesh/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/harinidineesh/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/harinidineesh/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -73,3 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/harinidineesh/Leetcode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/harinidineesh/Leetcode/tree/master/0633-sum-of-square-numbers) |
