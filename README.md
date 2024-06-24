@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harinidineesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/harinidineesh/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/harinidineesh/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -114,3 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harinidineesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
