@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/harinidineesh/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/harinidineesh/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harinidineesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/harinidineesh/Leetcode/tree/master/0648-replace-words) |
 # Trie
 |  |
@@ -108,3 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harinidineesh/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
