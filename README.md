@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harinidineesh/Leetcode/tree/master/0075-sort-colors) |
+| [0239-sliding-window-maximum](https://github.com/harinidineesh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/harinidineesh/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/harinidineesh/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/harinidineesh/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harinidineesh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/harinidineesh/Leetcode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harinidineesh/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Binary Search
@@ -97,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harinidineesh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1138-grumpy-bookstore-owner](https://github.com/harinidineesh/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/harinidineesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harinidineesh/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harinidineesh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harinidineesh/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harinidineesh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harinidineesh/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Simulation
 |  |
