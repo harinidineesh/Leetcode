@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/harinidineesh/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harinidineesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/harinidineesh/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -114,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/harinidineesh/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harinidineesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harinidineesh/Leetcode/tree/master/0258-add-digits) |
