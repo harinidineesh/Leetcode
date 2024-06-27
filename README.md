@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harinidineesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/harinidineesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/harinidineesh/Leetcode/tree/master/0648-replace-words) |
 # Trie
@@ -140,3 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harinidineesh/Leetcode/tree/master/0070-climbing-stairs) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harinidineesh/Leetcode/tree/master/0020-valid-parentheses) |
