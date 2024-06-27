@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harinidineesh/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/harinidineesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/harinidineesh/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harinidineesh/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
