@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harinidineesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/harinidineesh/Leetcode/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/harinidineesh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/harinidineesh/Leetcode/tree/master/0330-patching-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harinidineesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/harinidineesh/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/harinidineesh/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/harinidineesh/Leetcode/tree/master/0876-hand-of-straights) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harinidineesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/harinidineesh/Leetcode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/harinidineesh/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
