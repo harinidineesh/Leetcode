@@ -148,3 +148,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harinidineesh/Leetcode/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
+<!---LeetCode Topics End-->
