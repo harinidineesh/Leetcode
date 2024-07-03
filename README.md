@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/harinidineesh/Leetcode/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/harinidineesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0283-move-zeroes) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harinidineesh/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
