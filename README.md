@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/harinidineesh/Leetcode/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harinidineesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/harinidineesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harinidineesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
