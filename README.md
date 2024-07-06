@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/harinidineesh/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinidineesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/harinidineesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -198,10 +199,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/harinidineesh/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinidineesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
