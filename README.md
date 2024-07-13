@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/harinidineesh/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/harinidineesh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/harinidineesh/Leetcode/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harinidineesh/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harinidineesh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harinidineesh/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Binary Search
