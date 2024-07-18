@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harinidineesh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/harinidineesh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harinidineesh/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinidineesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinidineesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/harinidineesh/Leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/harinidineesh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harinidineesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harinidineesh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harinidineesh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
