@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/harinidineesh/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinidineesh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/harinidineesh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/harinidineesh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/harinidineesh/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/harinidineesh/Leetcode/tree/master/2048-build-array-from-permutation) |
