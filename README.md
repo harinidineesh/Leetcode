@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/harinidineesh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/harinidineesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -263,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harinidineesh/Leetcode/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harinidineesh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harinidineesh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
