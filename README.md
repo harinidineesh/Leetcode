@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harinidineesh/Leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/harinidineesh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/harinidineesh/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/harinidineesh/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/harinidineesh/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harinidineesh/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harinidineesh/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/harinidineesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harinidineesh/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Binary Search
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinidineesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/harinidineesh/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/harinidineesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/harinidineesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/harinidineesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harinidineesh/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/harinidineesh/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
