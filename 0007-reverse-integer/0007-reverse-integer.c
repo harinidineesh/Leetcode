@@ -1,15 +1,49 @@
-int reverse(int x){
-    int sum=0,rem;
-    while(x != 0){
-        rem = x%10;
-        if (sum > INT_MAX / 10 || (sum == INT_MAX / 10 && rem > 7)) {
-            return 0; 
-        }
-        if (sum < INT_MIN / 10 || (sum == INT_MIN / 10 && rem < -8)) {
-            return 0; 
-        }
-        sum = (sum*10)+rem;
-        x=x/10;
+#include<math.h>
+long int reverse(long int x)
+{
+    long int i,r=0,d;
+    if(x<INT_MIN||x>INT_MAX) 
+    {
+        return 0;
     }
-    return sum;
+    else
+    {
+       if(x>0)
+       {
+            while(x>0)
+            {
+                d=x%10;
+                r=r*10+d;
+                x=x/10;
+            }
+             if(r<INT_MIN||r>INT_MAX)
+            {
+                return 0;
+            }
+            return r;
+
+       }else if(x<0)
+       {
+            x=x*-1;
+             while(x>0)
+            {
+                d=x%10;
+                r=r*10+d;
+                x=x/10;
+            }
+            if(r<INT_MIN||r>INT_MAX)
+            {
+                return 0;
+            }
+            return -r;
+
+       }
+       else
+       {
+            return 0;
+       }
+        
+        
+    }
+   
 }
