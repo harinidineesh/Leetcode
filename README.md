@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harinidineesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/harinidineesh/Leetcode/tree/master/0500-keyboard-row) |
 | [0898-transpose-matrix](https://github.com/harinidineesh/Leetcode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/harinidineesh/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/harinidineesh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/harinidineesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harinidineesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/harinidineesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/harinidineesh/Leetcode/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harinidineesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/harinidineesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/harinidineesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/harinidineesh/Leetcode/tree/master/0500-keyboard-row) |
 ## Queue
 |  |
 | ------- |
