@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harinidineesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harinidineesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/harinidineesh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harinidineesh/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/harinidineesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/harinidineesh/Leetcode/tree/master/0168-excel-sheet-column-title) |
